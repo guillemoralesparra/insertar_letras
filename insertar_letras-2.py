@@ -83,7 +83,8 @@ def insertar_letras(path, path_l):
 
 # In[49]:
 
-
+##Ejemplo de como llamar la función
+##Se le pasa la imagen del coche y la imagen con las letras
 path = 'Documents/FLEXICAR/test/7845LFT_05.jpg'
 path_l = 'Documents/FLEXICAR/font/f_esplugues.png'
 insertar_letras(path,path_l)
