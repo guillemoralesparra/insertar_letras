@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # In[2]:
+#es necesario instalar numpy, cv2 y rembg
+##rembg:  https://github.com/danielgatis/rembg
 
 
 from PIL import Image
