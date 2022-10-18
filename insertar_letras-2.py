@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[2]:
-#es necesario instalar numpy, cv2 y rembg
+#es necesario instalar numpy, opencv, pillow y rembg
 ##rembg:  https://github.com/danielgatis/rembg
 
 
